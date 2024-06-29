@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Product-Invoice.git/static/css/main.a5ddeb54.css",
-    "main.js": "/Product-Invoice.git/static/js/main.79217049.js",
-    "static/js/213.00e6fef0.chunk.js": "/Product-Invoice.git/static/js/213.00e6fef0.chunk.js",
-    "static/js/732.ff837021.chunk.js": "/Product-Invoice.git/static/js/732.ff837021.chunk.js",
-    "index.html": "/Product-Invoice.git/index.html",
-    "main.a5ddeb54.css.map": "/Product-Invoice.git/static/css/main.a5ddeb54.css.map",
-    "main.79217049.js.map": "/Product-Invoice.git/static/js/main.79217049.js.map",
-    "213.00e6fef0.chunk.js.map": "/Product-Invoice.git/static/js/213.00e6fef0.chunk.js.map",
-    "732.ff837021.chunk.js.map": "/Product-Invoice.git/static/js/732.ff837021.chunk.js.map"
+    "main.css": "/Product-Invoice/static/css/main.a5ddeb54.css",
+    "main.js": "/Product-Invoice/static/js/main.9991ec07.js",
+    "static/js/213.00e6fef0.chunk.js": "/Product-Invoice/static/js/213.00e6fef0.chunk.js",
+    "static/js/732.ff837021.chunk.js": "/Product-Invoice/static/js/732.ff837021.chunk.js",
+    "index.html": "/Product-Invoice/index.html",
+    "main.a5ddeb54.css.map": "/Product-Invoice/static/css/main.a5ddeb54.css.map",
+    "main.9991ec07.js.map": "/Product-Invoice/static/js/main.9991ec07.js.map",
+    "213.00e6fef0.chunk.js.map": "/Product-Invoice/static/js/213.00e6fef0.chunk.js.map",
+    "732.ff837021.chunk.js.map": "/Product-Invoice/static/js/732.ff837021.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a5ddeb54.css",
-    "static/js/main.79217049.js"
+    "static/js/main.9991ec07.js"
   ]
 }

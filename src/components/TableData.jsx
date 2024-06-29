@@ -193,16 +193,16 @@ const TableData = () => {
                     </td>                </tr>
                 <tr>
                    <td colSpan={8} className='text-left font-bold'><span>Total :</span></td>
-                   <td className='bg-gray-200'>338.04</td>
-                   <td className='bg-gray-200'>2216.04</td>
+                   <td className='bg-gray-200'>₹338.04</td>
+                   <td className='bg-gray-200'>₹2216.04</td>
                 </tr>
                 <tr>
-                   <td colSpan={10} className='text-left text-sm font-bold'><span>Amount In Words:</span> <br /><span>One Hundred</span></td>
+                   <td colSpan={10} className='text-left text-sm font-bold'><span>Amount In Words:</span> <br /><span>two thousand two hundred sixteen only</span></td>
                 </tr>
                 <tr>
                     <td colSpan={10} className=' font-bold'>
                         <div className='flex flex-col justify-end items-end'>
-                      <span className='pb-2'>  For abc</span>
+                      <span className='pb-2'>  For Richa & Co. :</span>
                    
                          <img src="https://www.shutterstock.com/shutterstock/photos/2046349127/display_1500/stock-vector-vector-signature-autograph-hand-drawn-scrawl-signature-handwritten-autograph-handwriting-2046349127.jpg"
                           alt="sign" className='w-52 h-16 border-' style={{align:"left"}}/>

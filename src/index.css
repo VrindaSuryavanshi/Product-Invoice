@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f1f1f1;
+}
+pre{
+  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+table { 
+  border-collapse: collapse; 
+  border: solid 0.1px #4d4c4c;
+  border-style: solid none;
+  text-align: center;
+}
+th{
+  background-color: rgb(224, 217, 217);
+  font-size: 12px;
+  padding: 2px;
+}
+td , th,tr{
+  border: solid 0.5px #615e5e; 
+  padding-bottom: 6px;
+}

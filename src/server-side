@@ -1,0 +1,47 @@
+http://localhost:3000/
+
+c id   1000.E2GYGI540EYLXLW3YDAH42YK7HYJMS
+
+c sec  3aa0bd27d427e102586c5ca0db308e6616f38b0ddd
+
+
+https://accounts.zoho.com/oauth/v2/auth?response_type=code&client_id=1000.E2GYGI540EYLXLW3YDAH42YK7HYJMS&
+scope=ZohoInvoice.FullAccess.all&redirect_uri=http://localhost:3000/&access_type=offline
+
+
+http://localhost:3000/?code=1000.3387e5ae74ffd7391c70d25a822832ac.fd2cb69a3522c5405ca91fc76219030e&location=in&accounts-server=https%3A%2F%2Faccounts.zoho.in
+
+
+https://accounts.zoho.in/oauth/v2/token?code=1000.3387e5ae74ffd7391c70d25a822832ac.fd2cb69a3522c5405ca91fc76219030e&location=in&client_id=1000.E2GYGI540EYLXLW3YDAH42YK7HYJMS&client_secret=3aa0bd27d427e102586c5ca0db308e6616f38b0ddd&redirect_uri=http://localhost:3000/&grant_type=authorization_code
+
+
+
+{
+    "access_token": "1000.486eec8d87fb8d2bb4966bbc47fc2615.55f4b223d2ee4bba67ebb25edb44b8f5",
+    "scope": "ZohoInvoice.FullAccess.all",
+    "api_domain": "https://www.zohoapis.in",
+    "token_type": "Bearer",
+    "expires_in": 3600
+}
+
+https://accounts.zoho.com/oauth/v2/token?refresh_token=1000.aac3413914dd8e29f037da8bb830395d.bd8b3005587d20490802e064ca4bf84e&client_id=1000.E2GYGI540EYLXLW3YDAH42YK7HYJMS&client_secret=3aa0bd27d427e102586c5ca0db308e6616f38b0ddd&redirect_uri=http://localhost:3000/&grant_type=refresh_token
+
+
+{
+    "access_token": "1000.fd71f9cb285eba23935f3aea566f1f21.8e8fc8a03c845dc0d0ae63b58d4a18bb",
+    "scope": "ZohoInvoice.FullAccess.all",
+    "api_domain": "https://www.zohoapis.in",
+    "token_type": "Bearer",
+    "expires_in": 3600
+}
+<!-- 
+{Accounts_URL}/oauth/v2/token?refresh_token={refresh_token}&client_id={client_id}&client_secret={client_secret}&grant_type=refresh_token
+
+
+
+https://accounts.zoho.com/oauth/v2/token/revoke?token=1000.c879f7eeee03ce030dca5746f105ab93.f702ded95ee92a021cd33a3091306aea
+
+
+
+
+1000.5b5ec66a511bca2fb2a5f1b22cb0a48d.bdfc6860f2f13b4f235194ab1b733154
